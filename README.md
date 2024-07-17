@@ -12,3 +12,6 @@ The RLBotQOL bakkesmod plugin
 
 # Future
 - Source code coming soon :tm:
+
+# Bugs
+- Director cam unaffected
