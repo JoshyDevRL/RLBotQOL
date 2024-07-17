@@ -9,3 +9,6 @@ The RLBotQOL bakkesmod plugin
 
 1. Download the latest version of RLBotQOL here: https://github.com/JoshyDevRL/RLBotQOL/releases
 3. Open `%appdata%/bakkesmod/bakkesmod/plugins` in file explorer and place the dll in there
+
+# Future
+- Source code coming soon :tm:
