@@ -1,5 +1,10 @@
 The RLBotQOL bakkesmod plugin
 
+# Improvements
+
+- Ability to set your own camera settings instead of the predefined settings
+- Fixed a bug where it doesn't work on match restart
+
 # Installation
 
 1. Download the dll in the plugins folder
