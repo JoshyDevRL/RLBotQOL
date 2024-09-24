@@ -1,5 +1,7 @@
 The RLBotQOL bakkesmod plugin
 
+# PROJECT ON HOLD
+
 # Improvements
 - ## V2.0
   - Ability to set your own camera settings instead of the predefined settings
